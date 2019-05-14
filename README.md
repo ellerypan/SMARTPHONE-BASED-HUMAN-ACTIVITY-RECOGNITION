@@ -1,7 +1,7 @@
 # SMARTPHONE-BASED-HUMAN-ACTIVITY-RECOGNITION
 ## Introduction
 
-Smart equipment has been a common necessity for people in modern daily life. The porta- bility characteristic makes those smart devices prolific data sources, making it possible to use data collected from human activities to predict certain types of behavior, which is helpful for further research in many other fields such as health monitoring and medical emergency. As different sensors on one device could get thousands of records per day, the volume of recorded data explodes, which means analysis and modeling would be chal- lenging for a single machine. Thus, we built a workflow based on a distributed system including Amazon S3 cloud storage, mongoDB, Amazon EMR cluster and SparkML in this project.
+Smart equipment has been a common necessity for people in modern daily life. The portability characteristic makes those smart devices prolific data sources, making it possible to use data collected from human activities to predict certain types of behavior, which is helpful for further research in many other fields such as health monitoring and medical emergency. As different sensors on one device could get thousands of records per day, the volume of recorded data explodes, which means analysis and modeling would be chal- lenging for a single machine. Thus, we built a workflow based on a distributed system including Amazon S3 cloud storage, mongoDB, Amazon EMR cluster and SparkML in this project.
 
 ## Data Source
 
